@@ -19,6 +19,78 @@
  */
 window.CATALOG_DATA = {
   tops: [
+    {
+        "title": "цветок с фианитами",
+        "thread": "р. 0.9",
+        "price": "3 200 ₽",
+        "image": "images/catalog/item_78.jpg",
+        "objectPosition": "50% 50%"
+    },
+    {
+        "title": "звезда с фианитом",
+        "thread": "р. 0.9",
+        "price": "2 800 ₽",
+        "image": "images/catalog/item_79.jpg",
+        "objectPosition": "50% 50%"
+    },
+    {
+        "title": "веер маркиз",
+        "thread": "р. 0.9",
+        "price": "3 800 ₽",
+        "image": "images/catalog/item_80.jpg",
+        "objectPosition": "50% 50%"
+    },
+    {
+        "title": "кластер дуга",
+        "thread": "р. 0.9",
+        "price": "4 300 ₽",
+        "image": "images/catalog/item_81.jpg",
+        "objectPosition": "50% 50%"
+    },
+    {
+        "title": "арка с цепочкой",
+        "thread": "р. 0.9",
+        "price": "2 200 ₽",
+        "image": "images/catalog/item_82.jpg",
+        "objectPosition": "50% 50%"
+    },
+    {
+        "title": "радужный фианит",
+        "thread": "р. 0.9",
+        "price": "2 000 ₽",
+        "image": "images/catalog/item_83.jpg",
+        "objectPosition": "50% 50%"
+    },
+    {
+        "title": "топ перо",
+        "thread": "р. 1.2",
+        "price": "1 800 ₽",
+        "image": "images/catalog/item_84.jpg",
+        "objectPosition": "50% 50%"
+    },
+    {
+        "title": "кластер волна",
+        "thread": "р. 0.9",
+        "price": "4 600 ₽",
+        "image": "images/catalog/item_85.jpg",
+        "objectPosition": "50% 50%"
+    },
+    {
+        "title": "кошачий глаз",
+        "thread": "р. 1.2",
+        "variants": [
+            {
+                "size": "4 мм",
+                "price": "2 400 ₽"
+            },
+            {
+                "size": "5 мм",
+                "price": "2 800 ₽"
+            }
+        ],
+        "image": "images/catalog/item_86.jpg",
+        "objectPosition": "50% 50%"
+    },
 {
     "title": "опалит frozen",
     "thread": "р. 1.2",
@@ -59,7 +131,7 @@ window.CATALOG_DATA = {
     "objectPosition": "50% 45.4%"
   },
 {
-    "title": "цветы с фианитами",
+    "title": "цветок с фианитами",
     "thread": "р. 1.2",
     "price": "3  800 ₽",
     "image": "images/catalog/item_1.jpg",
@@ -132,7 +204,7 @@ window.CATALOG_DATA = {
     "objectPosition": "50% 66%"
   },
 {
-    "title": "фианит",
+    "title": "кластер дуга",
     "variants": [
       {
         "size": "малый",
@@ -160,7 +232,7 @@ window.CATALOG_DATA = {
     "objectPosition": "50% 33.6%"
   },
 {
-    "title": "фианит",
+    "title": "фианит куб",
     "thread": "р. 0.9",
     "price": "2  000 ₽",
     "image": "images/catalog/item_15.jpg",
@@ -758,6 +830,24 @@ window.CATALOG_DATA = {
   }
 ],
   rings: [
+    {
+        "title": "кликер с дорожкой фианитов",
+        "price": "4 800 ₽",
+        "image": "images/rings_chains/clicker_cz_row.jpg",
+        "objectPosition": "50% 50%"
+    },
+    {
+        "title": "кликер с фианитами",
+        "price": "2 500 ₽",
+        "image": "images/rings_chains/clicker_crystals.jpg",
+        "objectPosition": "50% 50%"
+    },
+    {
+        "title": "фактурный кликер",
+        "price": "2 000 ₽",
+        "image": "images/rings_chains/clicker_textured.jpg",
+        "objectPosition": "50% 50%"
+    },
   {
     "title": "кликер с фианитами (gold)",
     "price": "5 400 ₽",
